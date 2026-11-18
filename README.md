@@ -33,3 +33,5 @@ Sistema de administración operativa enfocado en el control financiero y cartera
 2. Importa los archivos `.sql` incluidos en la carpeta de cada proyecto dentro de tu gestor de **MySQL** (phpMyAdmin o MySQL Workbench)[cite: 10].
 3. Abre el proyecto deseado en **NetBeans**[cite: 10].
 4. Configura tus credenciales locales en la clase `conexion.java` (usuario, contraseña y puerto) y ejecuta el proyecto[cite: 10].
+
+
