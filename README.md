@@ -35,9 +35,9 @@ Sistema de administración operativa enfocado en el control financiero y cartera
 4. Configura tus credenciales locales en la clase `conexion.java` (usuario, contraseña y puerto) y ejecuta el proyecto[cite: 10].
 
 ### 1. 🎫 Ticketix (Mesa de Ayuda)
-<img src="Imagen3.jpg" width="350" alt="Vista previa de Ticketix">
+<img src="nombre-imagen-ticketix.png" height="320" alt="Menú de módulos de Ticketix">
 
 ### 2. 🎫 Vendette (Punto de Venta)
-<img src="Imagen4.jpg" width="350" alt="Vista previa de Vendette">
+<img src="nombre-imagen-vendette.png" height="320" alt="Menú de módulos de Vendette">
 
 
